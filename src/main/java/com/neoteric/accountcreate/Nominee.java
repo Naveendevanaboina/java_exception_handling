@@ -2,7 +2,7 @@ package com.neoteric.accountcreate;
 
 import java.util.List;
 
-public class Nomainee {
+public class Nominee {
 
     private String firstName;
     private String lastName;

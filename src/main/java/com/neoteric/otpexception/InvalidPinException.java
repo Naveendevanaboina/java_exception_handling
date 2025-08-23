@@ -1,2 +1,9 @@
-package com.neoteric.otpexception;public class InvalidPinException {
+package com.neoteric.otpexception;
+
+
+public class InvalidPinException extends Exception {
+    public InvalidPinException(String message) {
+        super(message);
+    }
 }
+

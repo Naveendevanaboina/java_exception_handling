@@ -1,2 +1,5 @@
-package com.neoteric.otpexception;public class InvalidOTPException {
-}
+//package com.neoteric.otpexception;
+//
+//public class InvalidOTPException
+//{
+//}
